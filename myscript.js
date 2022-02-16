@@ -36,6 +36,7 @@
     cel4.innerHTML = list4[x];
     cel5.innerHTML = list5[x];
 
+	  
     n++;
     x++;
   }
